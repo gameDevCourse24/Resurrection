@@ -103,18 +103,22 @@
 
 ## סקר שוק
 
-חיפשתי בגוגל "A community development game in a zombie and apocalypse environment" ןמצאתי את המשחקים ההבאים:
-1)[persist](https://www.persist.online/en/#)
+חיפשתי בגוגל "A community development game in a zombie and apocalypse environment" ומצאתי את המשחקים ההבאים:
+1) המשחק **Persist**
+   -----
+   במשחק אתה מגלם איש צוות שנלחם בזומבים - אבל אין את העניין של פיתוח קהילה. זה רק הצוות מול הזומבים.
+   [קישור למשחק](https://www.persist.online/en/)
+   ![תמונה](https://github.com/user-attachments/assets/6839061d-fe9a-4906-8c87-7560914e1ae3)
+2)  המשחק **State Of Survival**
+    -----
+   במשחק אין לחימה ממבט של השחקן.
+   [קישור למשחק](https://stateofsurvival.game/en)                  
+   ![תמונה](https://github.com/user-attachments/assets/84b40529-aa6f-41d8-a12f-cf429ac0566c)
+   
+3) המשחק **Project Zomboid**
+   -----
+   במשחק השחקן מנסה לשרוד מה שיותר זמן אבל אין פה את עניין החקירה והפתרון של הבעיה, במשחק הזה כל אחד לעצמו.
+   [קישור למשחק](https://store.steampowered.com/app/108600/Project_Zomboid/)
+   ![תמונה](https://github.com/user-attachments/assets/696810b3-c8ce-45ea-bc0c-58f8a98b2d4d)
+   
 
-במשחק אתה מגלם איש צוות שנלחם בזומבים - אבל אין את העניין של פיתוח קהילה. זה רק הצוות מול הזומבים.
-
-2)[Project Zomboid](https://store.steampowered.com/app/108600/Project_Zomboid/)
-
-במשחק השחקן מנסה לשרוד מה שיותר זמן אבל אין פה את עניין החקירה והפתרון של הבעיה, ןגם עניין הקהילה חסר, במשחק הזה כל אחד לעצמו.
-
-3)[stateofsurvival](https://stateofsurvival.game/en)
-
-במשחק אין לחימה ממבט של השחקן.
-
-
-</div>
