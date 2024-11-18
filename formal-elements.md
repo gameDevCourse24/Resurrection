@@ -9,8 +9,8 @@
 
 המשחק מיועד למחשב רגיל (PC) עם אפשרות להרחיב לפלטפורמות נוספות בעתיד.
 
+![zombies](https://github.com/user-attachments/assets/0d8d79f5-53b9-4e08-9e98-7aae16e7b154)
 
-![pic](zombies.jpg)
 
 ---
 
