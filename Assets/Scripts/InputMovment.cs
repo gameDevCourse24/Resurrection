@@ -3,7 +3,7 @@ using UnityEngine.InputSystem;
 public class InputMovment : MonoBehaviour
 {
     [SerializeField, Tooltip("speed")] float movementSpeed;
-    [SerializeField] InputAction move = new InputAction(
+    [SerializeField]InputAction move = new InputAction(
         type: InputActionType.Value, expectedControlType: nameof(Vector2));
     [SerializeField] Camera cam;
     Rigidbody2D rb;
@@ -22,7 +22,8 @@ public class InputMovment : MonoBehaviour
         moveDirection = move.ReadValue<Vector2>();
         mousePos = cam.ScreenToWorldPoint(Input.mousePosition);
     }
-    void FixedUpdate(){
+    void FixedUpdate()
+    {
         rb.MovePosition(rb.position + moveDirection * movementSpeed * Time.fixedDeltaTime);
         Vector2 lookDir = mousePos - rb.position;
         float angle = Mathf.Atan2(lookDir.y, lookDir.x) * Mathf.Rad2Deg;
