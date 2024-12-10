@@ -426,7 +426,11 @@
 -analyzer:"Library/PackageCache/com.unity.collab-proxy/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll"
 -analyzer:"Library/PackageCache/com.unity.collab-proxy/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll"
 -analyzer:"Library/PackageCache/com.unity.collab-proxy/Lib/Editor/unityplastic.dll"
-"Assets/Scripts/Follower.cs"
+"Assets/Scripts/Bullet.cs"
+"Assets/Scripts/ClickSpawner.cs"
+"Assets/Scripts/InputMovment.cs"
+"Assets/Scripts/Mover.cs"
+"Assets/Scripts/TimedSpawnerRandom.cs"
 -langversion:9.0
 /deterministic
 /optimize+
