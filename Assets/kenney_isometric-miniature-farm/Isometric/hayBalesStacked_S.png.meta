@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hayBalesStacked_S_0: 5273825540532914620
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

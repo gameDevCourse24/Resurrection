@@ -2,9 +2,10 @@ using UnityEngine;
 
 public class Mover : MonoBehaviour
 {
-    [SerializeField, Tooltip("The Player Tag")] string playerTag;
-    [SerializeField, Tooltip("Zombie speed")] float speed;
+    [SerializeField, Tooltip("The Player Tag")] string playerTag = "Player";
+    [SerializeField, Tooltip("speed")] float speed;
     [SerializeField, Tooltip("Rotation speed")] float rotationSpeed = 5f;
+    [SerializeField] Vector3 offset = Vector3.zero;
 
     public void atackThePlayer()
     {
@@ -18,7 +19,7 @@ public class Mover : MonoBehaviour
             Quaternion lookRotation = Quaternion.Euler(0, 0, angle);
             transform.rotation = Quaternion.Slerp(transform.rotation, lookRotation, rotationSpeed * Time.deltaTime);
 
-            transform.position = Vector3.MoveTowards(transform.position, targetPosition, speed * Time.deltaTime);
+            transform.position = Vector3.MoveTowards(transform.position, targetPosition + offset, speed * Time.deltaTime);
         }
     }
 }

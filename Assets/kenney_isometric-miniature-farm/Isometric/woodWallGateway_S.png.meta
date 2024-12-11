@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      woodWallGateway_S_0: 4339508959012955446
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
