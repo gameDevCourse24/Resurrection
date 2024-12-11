@@ -3,7 +3,8 @@ using UnityEngine.InputSystem;
 public class InputMovment : MonoBehaviour
 {
     [SerializeField, Tooltip("speed")] float movementSpeed;
-    [SerializeField] InputAction move = new InputAction(
+    [SerializeField]
+    InputAction move = new InputAction(
         type: InputActionType.Value, expectedControlType: nameof(Vector2));
     [SerializeField] Camera cam;
     Rigidbody2D rb;
