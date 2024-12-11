@@ -22,7 +22,6 @@ public class KeepTracking : MonoBehaviour
                 {
                     mover.atackThePlayer();
                 }
-
             }
         }
     }
