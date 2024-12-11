@@ -41,7 +41,7 @@ public class TimedSpawnerRandom : MonoBehaviour
             //הוספתי כאן בדיקה האם יש לאובייקט רכיב של תזוזה
             if (newObject.TryGetComponent<Mover>(out Mover mover))
             {
-                mover.SetVelocity(velocityOfSpawnedObject);
+                // mover.SetVelocity(velocityOfSpawnedObject);
             }
             else
             {
