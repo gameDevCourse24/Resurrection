@@ -17,11 +17,11 @@ public class KeepTracking : MonoBehaviour
             GameObject player = GameObject.FindGameObjectWithTag(playerTag);
             if (player != null)
             {
-                    Mover mover = GetComponent<Mover>();
-                    if (mover != null)
-                    {
-                        mover.atackThePlayer();
-                    }
+                Mover mover = GetComponent<Mover>();
+                if (mover != null)
+                {
+                    mover.atackThePlayer();
+                }
 
             }
         }
