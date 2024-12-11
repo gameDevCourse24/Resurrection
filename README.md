@@ -3,6 +3,7 @@
 # שם המשחק: תחיית המתים
 
 **בנו חברה חדשה מתוך ההריסות, והגנו עליה מפני הזומבים**
+[למשחק](https://gamedevrel2024shovhalyon.itch.io/resurrection)
 
 
 
